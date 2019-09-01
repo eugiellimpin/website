@@ -1,20 +1,36 @@
-/* color scheme from https://serioverify.com
-https://visme.co/blog/website-color-schemes/
-#17252a
-#2b7a78
-#3aafa9
-#def2f1
-#feffff
-*/
+/* color scheme from https://www.nordtheme.com */
+
+:root {
+  --font: "Inconsolata", sans-serif;
+}
+
+body[data-lights="on"] {
+  --bg: #eceff4;
+  --color: #17252a;
+  --hl-color: #5e81ac;
+}
+
+body[data-lights="off"] {
+  --bg: #2e3440;
+  --color: #eceff4;
+  --hl-color: #88c0d0;
+}
 
 body {
+  display: flex;
+  flex-direction: column;
   height: 100vh;
+
   width: 90%;
   margin: auto;
 
-  background-color: #feffff;
-  font-family: "Inconsolata", sans-serif;
-  color: #17252a;
+  background-color: var(--bg);
+  font-family: var(--font);
+  color: var(--color);
+}
+
+#main {
+  flex: 1;
 }
 
 nav {
@@ -34,7 +50,7 @@ nav ul {
   content: " ";
   width: 50px;
   height: 2px;
-  background: #3aafa9;
+  background: var(--hl-color);
   display: block;
   margin-top: 5px;
 }
@@ -45,15 +61,47 @@ nav ul {
 }
 
 a {
-  color: #17252a;
+  color: var(--color);
 }
 
 a:hover {
-  color: #3aafa9;
+  color: var(--hl-color);
 }
 
 @media (min-width: 376px) {
   body {
     width: 60%;
   }
+}
+
+footer {
+  padding-bottom: 20px;
+}
+
+/* https://css-tricks.com/overriding-default-button-styles/ */
+button {
+  display: inline-block;
+  border: 1px solid;
+  padding: 0.5rem 1rem;
+  margin: 0;
+  text-decoration: none;
+  background: var(--color);
+  color: var(--bg);
+  font-family: var(--font);
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+  background: var(--bg);
+  color: var(--color);
+}
+
+button:focus {
+  outline: 1px dotted var(--color);
+  outline-offset: -4px;
 }
