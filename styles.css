@@ -2,6 +2,7 @@
 
 :root {
   --font: "Inconsolata", sans-serif;
+  font-size: 16px;
 }
 
 body[data-lights="on"] {
@@ -34,16 +35,22 @@ body {
 }
 
 nav {
+  display: flex;
+  justify-content: space-between;
   padding: 20px 0 20px 0;
 }
 
 nav ul {
+  display: flex;
+
   /* reset default styling */
   list-style: none;
   padding-inline-start: 0;
 
-  display: flex;
-  justify-content: space-between;
+}
+
+nav ul li {
+  padding-right: 1.5rem;
 }
 
 #logo::after {
@@ -62,9 +69,15 @@ nav ul {
 
 a {
   color: var(--color);
+  text-decoration: none;
 }
 
 a:hover {
+  color: var(--hl-color);
+  text-decoration: underline;
+}
+
+a.active {
   color: var(--hl-color);
 }
 
