@@ -13,5 +13,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/eugiellimpin/eugielimpin.com"
+  "homepage": "https://github.com/eugiellimpin/eugielimpin.com",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
 }
