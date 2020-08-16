@@ -12,4 +12,7 @@ This project started as a clone of [Ryan Florence](https://twitter.com/ryanflore
 Applications section of [Swyx](https://twitter.com/swyx)'s excellent book
 [The Coding Career Handbook](https://www.learninpublic.org/).
 
+I built it using React, Firebase, and TailwindCSS and based most of the
+design from Todoist.
+
 You can find the app <a href="https://planner-pearl.vercel.app/" target="_blank">here</a>.
