@@ -7,6 +7,8 @@ layout: rootLayout.11ty.js
 I'm Eugie Limpin, a Software Engineer at
 <a href="https://quipper.com" target="_blank" rel="noreferrer noopener">Quipper</a>.
 
+This is my internet garage where you can see what I'm currently up to and other stuff.
+
 # Projects
 
 ## <a href="https://planner-pearl.vercel.app/" target="_blank">Planner</a>
