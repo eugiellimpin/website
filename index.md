@@ -36,3 +36,9 @@ used.
 ## Now
 
 - [Book] <a href="https://www.learninpublic.org/" target="_blank">The Coding Career Handbook - Shawn Wang</a>
+
+# Me, elsewhere
+
+- [GitHub](https://github.com/eugiellimpin)
+- [Twitter](https://twitter.com/eugiellimpin)
+- [LinkedIn](https://www.linkedin.com/in/eugiellimpin/)
