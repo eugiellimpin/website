@@ -9,7 +9,7 @@ I'm Eugie Limpin, a Software Engineer at
 
 # Projects
 
-## Planner
+## <a href="https://planner-pearl.vercel.app/" target="_blank">Planner</a>
 
 This project started as a clone of [Ryan Florence](https://twitter.com/ryanflorence)'s
 [Planner](https://planner.now.sh) which I committed to building for 15 days
@@ -17,10 +17,15 @@ This project started as a clone of [Ryan Florence](https://twitter.com/ryanflore
 Applications section of [Swyx](https://twitter.com/swyx)'s excellent book
 [The Coding Career Handbook](https://www.learninpublic.org/).
 
-I built it using React, Firebase, and TailwindCSS and based most of the
-design from Todoist.
+The app is built using the following technologies:
 
-You can find the app <a href="https://planner-pearl.vercel.app/" target="_blank">here</a>.
+- React
+- Javascript & TypeScript
+- HTML, CSS & TailwindCSS
+- Firebase
+  - Firestore
+  - Authentication
+  - Cloud Functions
 
 # Learning
 
