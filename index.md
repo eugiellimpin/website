@@ -31,7 +31,7 @@ The app is built using the following technologies:
 
 # Learning
 
-I'm constantly learning (or at least trying!). Here I keep a list of things
+I'm constantly learning (or at least trying!). Here, I keep a list of things
 that I'm currently learning and curated resources that I'm using or have
 used.
 
