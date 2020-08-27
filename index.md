@@ -39,6 +39,10 @@ used.
 
 - [Book] <a href="https://www.learninpublic.org/" target="_blank">The Coding Career Handbook - Shawn Wang</a>
 
+# Resume
+
+You can find it in [/resume](/resume).
+
 # Me, elsewhere
 
 - [GitHub](https://github.com/eugiellimpin)
