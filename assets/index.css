@@ -367,10 +367,6 @@ a:hover {
   background-color: #D8DEE9;
 }
 
-.content {
+body {
   padding: 1rem;
-}
-
-iframe {
-  height: 100vh;
 }
