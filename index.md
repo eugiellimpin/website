@@ -46,5 +46,5 @@ You can find it in [/resume](/resume).
 # Me, elsewhere
 
 - [GitHub](https://github.com/eugiellimpin)
-- [Twitter](https://twitter.com/eugiellimpin)
+- [Twitter](https://twitter.com/eugielimpin)
 - [LinkedIn](https://www.linkedin.com/in/eugiellimpin/)
