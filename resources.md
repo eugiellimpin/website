@@ -6,7 +6,7 @@ Useful resources I've found around the web
 
 ### The Internet
 
-- https://explained-from-first-principles.com/internet
+- [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
 
 ### Icons
 
