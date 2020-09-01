@@ -29,6 +29,11 @@ The app is built using the following technologies:
   - Authentication
   - Cloud Functions
 
+# Resources
+
+Good stuff I've found around the web and don't want to forget can be found in
+[/resources](/resources).
+
 # Learning
 
 I'm constantly learning (or at least trying!). Here, I keep a list of things
