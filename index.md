@@ -32,14 +32,13 @@ The app is built using the following technologies:
 
 # Resources
 
-Good stuff I've found around the web and don't want to forget can be found in
+Curated links I've found around the web I don't want to forget can be found in
 [/resources](/resources).
 
 # Learning
 
 I'm constantly learning (or at least trying!). Here, I keep a list of things
-that I'm currently learning and curated resources that I'm using or have
-used.
+that I'm currently learning.
 
 ## Now
 
@@ -47,10 +46,10 @@ used.
 
 # Resume
 
-You can find it in [/resume](/resume).
+You can find my in [/resume](/resume).
 
-# Me, elsewhere
+# Elsewhere
 
 - [GitHub](https://github.com/eugiellimpin)
 - [Twitter](https://twitter.com/eugielimpin)
-- [LinkedIn](https://www.linkedin.com/in/eugiellimpin/)
+- [LinkedIn](https://www.linkedin.com/in/eugiellimpin/) 😬
