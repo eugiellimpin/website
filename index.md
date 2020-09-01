@@ -4,8 +4,9 @@ layout: rootLayout.11ty.js
 
 # Hey 👋🏼
 
-I'm Eugie Limpin, a Software Engineer at
-<a href="https://quipper.com" target="_blank" rel="noreferrer noopener">Quipper</a>.
+I'm Eugie Limpin, a Software Engineer from the Philippines 🇵🇭. Currently, I'm working at
+<a href="https://quipper.com" target="_blank" rel="noreferrer noopener">Quipper</a>
+building things for students and teachers to effectively learn online.
 
 This is my internet garage where you can see what I'm currently up to and other stuff.
 
