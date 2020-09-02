@@ -8,7 +8,7 @@ I'm Eugie Limpin, a Software Engineer from the Philippines 🇵🇭. Currently, 
 <a href="https://quipper.com" target="_blank" rel="noreferrer noopener">Quipper</a>
 building things for students and teachers to effectively learn online.
 
-This is my internet garage where you can see what I'm currently up to and other stuff.
+This is my [digital garden](https://joelhooks.com/digital-garden) 🌱.
 
 # Projects
 
