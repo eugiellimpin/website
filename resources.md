@@ -21,3 +21,7 @@ Useful resources I've found around the web
 ### Illustrations
 
 - [Open Peeps](https://www.openpeeps.com/)
+
+### Courses, learning resources, etc.
+
+- [Frontend Mentor](https://www.frontendmentor.io/)
