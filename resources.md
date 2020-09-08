@@ -7,6 +7,7 @@ Useful resources I've found around the web
 ### Soft skills
 
 - [How do Individual Contributors Get Stuck? A Primer (by Camille Fournier)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html) or how to give feedback
+- [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
 - [7 absolute truths I unlearned as a junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 
 ### The Internet
