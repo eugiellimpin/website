@@ -4,6 +4,10 @@ layout: rootLayout.11ty.js
 
 Useful resources I've found around the web
 
+### Unorganized
+
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+
 ### Soft skills
 
 - [How do Individual Contributors Get Stuck? A Primer (by Camille Fournier)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html) or how to give feedback
