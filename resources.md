@@ -8,6 +8,10 @@ Useful resources I've found around the web
 
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
+### Design
+
+- [Design For Developers](https://www.slideshare.net/Wolfr/design-for-developersonlineversionlong)
+
 ### Soft skills
 
 - [How do Individual Contributors Get Stuck? A Primer (by Camille Fournier)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html) or how to give feedback
