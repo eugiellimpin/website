@@ -18,6 +18,11 @@ Useful resources I've found around the web
 
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
 
+### Security
+
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [Web Security Cheatsheets](https://pragmaticwebsecurity.com/cheatsheets.html)
+
 ### Icons
 
 - [Zondicons](https://www.zondicons.com/)
