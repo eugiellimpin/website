@@ -48,3 +48,4 @@ Useful resources I've found around the web
 
 - [draw.io](app.diagrams.net)
 - [isoflow.io](https://isoflow.io/) [assess]
+- [The best of JavaScript, HTML, CSS](https://bestofjs.org/)
