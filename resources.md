@@ -8,6 +8,10 @@ Useful resources I've found around the web
 
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
+### Articles
+
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+
 ### Design
 
 - [Design For Developers](https://www.slideshare.net/Wolfr/design-for-developersonlineversionlong)
