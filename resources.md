@@ -7,6 +7,7 @@ Useful resources I've found around the web
 ### Unorganized
 
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
 ### Articles
 
