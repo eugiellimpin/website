@@ -17,11 +17,12 @@ Useful resources I've found around the web
 
 - [Design For Developers](https://www.slideshare.net/Wolfr/design-for-developersonlineversionlong)
 
-### Soft skills
+### Career
 
 - [How do Individual Contributors Get Stuck? A Primer (by Camille Fournier)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html) or how to give feedback
 - [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
 - [7 absolute truths I unlearned as a junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [Charity Majors on levelling (getting promoted)](https://threadreaderapp.com/thread/1303233899422605314.html) ([original](https://twitter.com/mipsytipsy/status/1303233899422605314))
 
 ### The Internet
 
