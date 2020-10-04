@@ -4,14 +4,14 @@ layout: rootLayout.11ty.js
 
 Useful resources I've found around the web
 
-### Unorganized
-
-- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
-- [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
-
 ### Articles
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+
+### System Design
+
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- [Building Resilient Frontend Architecture • Monica Lent](https://www.youtube.com/watch?v=TqfbAXCCVwE)
 
 ### Design
 
@@ -23,6 +23,7 @@ Useful resources I've found around the web
 - [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
 - [7 absolute truths I unlearned as a junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 - [Charity Majors on levelling (getting promoted)](https://threadreaderapp.com/thread/1303233899422605314.html) ([original](https://twitter.com/mipsytipsy/status/1303233899422605314))
+- [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
 ### The Internet
 
