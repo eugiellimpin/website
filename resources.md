@@ -53,3 +53,7 @@ Useful resources I've found around the web
 - [draw.io](app.diagrams.net)
 - [isoflow.io](https://isoflow.io/) [assess]
 - [The best of JavaScript, HTML, CSS](https://bestofjs.org/)
+
+### Unsorted
+
+- [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
