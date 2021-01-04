@@ -9,6 +9,7 @@ Useful resources I've found around the web
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - [Why Asking Software Developers for Time Estimates Is a Terrible Idea and How to Bypass It](https://www.romenrg.com/blog/2015/09/28/why-asking-developers-for-time-estimates-in-software-projects-is-a-terrible-idea-and-how-to-bypass-it-with-scrum/)
 - [What Makes a Great Software Engineer](https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/)
+- [What's it like as a Senior Engineer at Google?](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)
 
 ### System Design
 
